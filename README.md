@@ -1,2 +1,14 @@
-# combo-lock-breaker
-This device will cycle through every single combination on your lock until it finds the right code, then outputs the digits onto the LCD screen. The keypad can be used for calibrating the device and for inputting custom codes (for now). Useful if you forget the code to your lock.
+# Combo Lock Breaker
+
+This device can cycle through every possible combination on your lock until it finds the correct code, which is then displayed on an LCD screen.
+
+
+### Highlights
+- Extremely fast and accurate thanks to the Nema 17 Closed Loop System
+- Cracks any combination lock in under ____ seconds
+- LCD displays the current status, progress, and the result
+- Quiet
+
+
+### Showcase
+Coming soon...
