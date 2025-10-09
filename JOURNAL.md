@@ -67,7 +67,7 @@ For now I'll be following some tutorials on KiCad. Once I'm comfortable, I will 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--3fa25aba29aa10d2b1982774c30b7bc776e77f62/image.png)  
 
-## 10/9/2025 - Future Plans  
+## 10/9/2025 2 AM - Future Plans  
 
 This project is going to take way longer than I thought it would. Probably because this is my first hardware project and I have zero clue what I'm doing.
 
@@ -80,4 +80,19 @@ An issue I currently have is that I need a multimeter to properly adjust the pot
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0038461fc20474c2ae9f99724bc08ac72dc24be4/image.png)
 
   
+
+## 10/9/2025 3 AM - Other considerations  
+
+I know I'm going to get a ton of power and speed from my Nema 17 motor, but I have a new concern about if my servo is going to slow down my setup. Considering the servo will have to move very fast, and that it will have to attempt to open the shackle a few hundred or even thousands of times before stopping, I'm also concerned about the durability of the servo, I don't know if it can take that many hits.
+
+I also really need a better name for this device, "Combination Lock Breaker" doesn't really cut it.
+
+
+Here's a quick recap of what I did for the past hour
+- Created readme file
+- Looked at other designs of combination lock breakers, and demos
+- Drafted new ideas for the future (adding a progress bar, status, etc to the display and creating more input options with the keypad)
+
+Image taken from this [video](https://www.youtube.com/watch?v=tteG2hQaDeg)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--3b4dba8fd93c74906c0d5bc96ffb81d57deb44b7/image.png)  
 
