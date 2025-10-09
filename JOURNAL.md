@@ -96,3 +96,12 @@ Here's a quick recap of what I did for the past hour
 Image taken from this [video](https://www.youtube.com/watch?v=tteG2hQaDeg)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--3b4dba8fd93c74906c0d5bc96ffb81d57deb44b7/image.png)  
 
+## 10/9/2025 8 PM - Created a 3D lock model  
+
+I created my combination lock model in Fusion 360. I found the dimensions of my specific lock online, but there were some missing measurements like for the dial and width of the lock so I had to measure the parts with a ruler. I'm not gonna make it super polished and good looking just yet, I just want the base idea of how everything will pan out.
+
+I could've finished this model in less than an hour, but my Fusion kept crashing for some reason which slowed me down.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3MywicHVyIjoiYmxvYl9pZCJ9fQ==--38f4645b98e3accc362fa22da5bdb5f5ad15689d/image.png)
+  
+
