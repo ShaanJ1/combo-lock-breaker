@@ -107,7 +107,7 @@ I could've finished this model in less than an hour, but my Fusion kept crashing
 
 ## 10/10/2025 - Creating mounts  
 
-My current plan is to create mounts for each similar part (Keypad + LCD, Motor + Lock, etc), then I'll group them all together into one final design. There's probably a better way to do this, but I'm not that experienced in 3D modelling.
+My current plan is to create mounts for each similar part (Keypad + LCD, Motor + Lock, etc), then I'll group them all together into one final design. I'm not that experienced in 3D modelling, so theres probably a better way to do this.
 
 The past hour or so I've been downloading all the 3D models of the parts that I'm going to use in my project, organising my project directory, and making the LCD mount. Now I'm in the process of adding the keypad.
 
