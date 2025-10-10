@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Combination Lock Brea
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/257).
 
 
-## 10/7/2025 - Part Planning & Research  
+## 10/7/2025 3 PM - Part Planning & Research  
 
 Spent a few hours researching what parts I mainly need and what goes together.
 
@@ -29,7 +29,7 @@ Next I'll need to find cheap but good parts, add any missing things needed, and 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc0LCJwdXIiOiJibG9iX2lkIn19--356dfb0ca2f2a88b0ce5be38759c56d7f7bb34bf/image.png)  
 
-## 10/8/2025 3 AM - Rough idea on things  
+## 10/7/2025 9 PM - Rough idea on things  
 
 - For my parts, I decided to switch out the voltage regulator for a buck converter. I did this because a buck converter has better efficiency and is better at heat management.
 - I'm also switching out the arduino nano for a arduino mega since the nano doesn't have enough pins for the amount of wires I need to hook up to it, and the extra specs that the mega would give me would prevent any low memory issues I could run into in the future.
@@ -42,7 +42,7 @@ Here's a CirkitDesigner diagram I'm working on for now. (The design isn't comple
 ![circuit_image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3LCJwdXIiOiJibG9iX2lkIn19--ab46f0c58df6a172ee31255a74e5128cb3edefcf/circuit_image.png)
   
 
-## 10/8/2025 9 PM - Part Updates + Installed KiCad  
+## 10/8/2025 3 PM - Part Updates + Installed KiCad  
 
 - Finished the BOM for now (not including PCB or 3D printing costs yet)
 - I replaced the stepper motor, encoder, and driver with an enclosed system I found on StepperOnline.ca. This not only simplified half the project for me, it was a couple bucks cheaper than my old parts too.
@@ -67,7 +67,7 @@ For now I'll be following some tutorials on KiCad. Once I'm comfortable, I will 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--3fa25aba29aa10d2b1982774c30b7bc776e77f62/image.png)  
 
-## 10/9/2025 2 AM - Future Plans  
+## 10/8/2025 8 PM - Future Plans  
 
 This project is going to take way longer than I thought it would. Probably because this is my first hardware project and I have zero clue what I'm doing.
 
@@ -81,7 +81,7 @@ An issue I currently have is that I need a multimeter to properly adjust the pot
 
   
 
-## 10/9/2025 3 AM - Other considerations  
+## 10/8/2025 9 PM - Other considerations  
 
 I know I'm going to get a ton of power and speed from my Nema 17 motor, but I have a new concern about if my servo is going to slow down my setup. Considering the servo will have to move very fast, and that it will have to attempt to open the shackle a few hundred or even thousands of times before stopping, I'm also concerned about the durability of the servo, I don't know if it can take that many hits.
 
@@ -96,12 +96,29 @@ Here's a quick recap of what I did for the past hour
 Image taken from this [video](https://www.youtube.com/watch?v=tteG2hQaDeg)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--3b4dba8fd93c74906c0d5bc96ffb81d57deb44b7/image.png)  
 
-## 10/9/2025 8 PM - Created a 3D lock model  
+## 10/9/2025 - Created a 3D lock model  
 
 I created my combination lock model in Fusion 360. I found the dimensions of my specific lock online, but there were some missing measurements like for the dial and width of the lock so I had to measure the parts with a ruler. I'm not gonna make it super polished and good looking just yet, I just want the base idea of how everything will pan out.
 
 I could've finished this model in less than an hour, but my Fusion kept crashing for some reason which slowed me down.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3MywicHVyIjoiYmxvYl9pZCJ9fQ==--38f4645b98e3accc362fa22da5bdb5f5ad15689d/image.png)
+  
+
+## 10/10/2025 - Creating mounts  
+
+My current plan is to create mounts for each similar part (Keypad + LCD, Motor + Lock, etc), then I'll group them all together into one final design. There's probably a better way to do this, but I'm not that experienced in 3D modelling.
+
+The past hour or so I've been downloading all the 3D models of the parts that I'm going to use in my project, organising my project directory, and making the LCD mount. Now I'm in the process of adding the keypad.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUwNywicHVyIjoiYmxvYl9pZCJ9fQ==--c7a29624a0aa1a0c5f37c14fa64640002df1afa9/image.png)
+Still haven't really figured out the screws in Fusion yet
+
+I want my final design to allow for the lock to be easily swappable, keep the entire thing compact, while still being able to see the action.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0789cfc56b2f89b18139c5e9048343ea1f1393f1/image.png)
+
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ed135812b2fb258fd081d1cd8f79a02ebd2f4e7/image.png)
   
 
