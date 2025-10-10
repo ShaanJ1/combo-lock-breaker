@@ -109,16 +109,14 @@ I could've finished this model in less than an hour, but my Fusion kept crashing
 
 My current plan is to create mounts for each similar part (Keypad + LCD, Motor + Lock, etc), then I'll group them all together into one final design. I'm not that experienced in 3D modelling, so theres probably a better way to do this.
 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ed135812b2fb258fd081d1cd8f79a02ebd2f4e7/image.png)
+
 The past hour or so I've been downloading all the 3D models of the parts that I'm going to use in my project, organising my project directory, and making the LCD mount. Now I'm in the process of adding the keypad.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUwNywicHVyIjoiYmxvYl9pZCJ9fQ==--c7a29624a0aa1a0c5f37c14fa64640002df1afa9/image.png)
 Still haven't really figured out the screws in Fusion yet
 
-I want my final design to allow for the lock to be easily swappable, keep the entire thing compact, while still being able to see the action.
+I want my final design to allow for the lock to be easily swappable, keep the entire thing compact, while still being able to see the action. Similar to something like this
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0789cfc56b2f89b18139c5e9048343ea1f1393f1/image.png)
-
-
-
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ed135812b2fb258fd081d1cd8f79a02ebd2f4e7/image.png)
   
 
