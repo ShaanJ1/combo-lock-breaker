@@ -120,3 +120,22 @@ I want my final design to allow for the lock to be easily swappable, keep the en
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0789cfc56b2f89b18139c5e9048343ea1f1393f1/image.png)
   
 
+## 10/11/2025 - Day 5  
+
+### New ideas of how my project is going to function
+For my servo, I will need to program it in a way that helps prevent excess damage by hitting the shackle full force every time. Cutting power as soon as it detects the servo hits a lot of resistance, and adding a capacitor to the servo are some ideas I have right now.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--3b185be5a05c2a3ffe001d22fa10327b438795e5/image.png)
+
+The design also needs good cooling, especially for the buck converters, so I need some additional heatsinks for that too.
+
+
+#### Currently working on/plan for the day
+- Schematic for the project
+- Creating footprints and symbols for the parts
+- Making the coupler for the motor and for the dial
+- The part that will hold the lock securely in place
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTY3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--09bdaf989b776b26d6550253edc72e59a597f75b/image.png)
+
+  
+
