@@ -150,7 +150,7 @@ After some consideration, I went ahead and chose the RP2040 module for this proj
 
 ## 10/12/2025 3 PM - Created the coupler  
 
-Finished created the coupler for my motor & lock. I made teeth on the inside for the dial by measuring out the teeth on my lock as precisely as I could with my ruler since I don't have an electric caliper. The coupler's teeth should be aligned directly with the teeth on the dial so there's minimal slipping and ensure a good fit.
+Finished created the coupler for my motor & lock. I made teeth on the inside for the dial by measuring out the teeth on my lock as precisely as I could with my ruler since I don't have an electric caliper. The coupler's teeth should be aligned directly with the teeth on the dial so there's minimal slipping and to ensure a good fit.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--550c2aa22b2b637c9a6a0eab5bd9658fe441673f/image.png)
 
   
