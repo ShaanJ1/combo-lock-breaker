@@ -139,12 +139,19 @@ The design also needs good cooling, especially for the buck converters, so I nee
 
   
 
-## 10/12/2025 - Change of plans  
+## 10/12/2025 10 AM - Change of plans  
 
 Instead of having an arduino mega + pcb setup, I'm going to go ahead and make my own devboard to both reduce space and to simplify wiring. My top 2 options are currently the RP2040 and the ESP32.
 
 After some consideration, I went ahead and chose the RP2040 module for this project over the ESP32. I liked the ESP32's chip for its wifi capabilities but ultimately chose the RP2040 because it consumes less power and has better overall hardware control. Since I also already have an LCD and Matrix keypad for my project, running a web server would've just been unnecessary overhead.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgxMywicHVyIjoiYmxvYl9pZCJ9fQ==--7ebe088d12976e3a2289415c91808f01e57f1dd0/image.png)
+  
+
+## 10/12/2025 3 PM - Created the coupler  
+
+Finished created the coupler for my motor & lock. I made teeth on the inside for the dial by measuring out the teeth on my lock as precisely as I could with my ruler since I don't have an electric caliper. The coupler's teeth should be aligned directly with the teeth on the dial so there's minimal slipping and ensure a good fit.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--550c2aa22b2b637c9a6a0eab5bd9658fe441673f/image.png)
+
   
 
