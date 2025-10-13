@@ -157,8 +157,9 @@ Finished created the coupler for my motor & lock. I made teeth on the inside for
 
 ## 10/13/2025 - Created the power schematic  
 
-The board is going to have 2 sources of power, a USB-C Receptacle, and a Barrel Jack. The USB-C would mainly be used for programming the board but it can also be used to power all the components besides the stepper motor setup. The barrel jack will be the main source of the power for this board, as it provides the 24V necessary for everything to work.
+Along with creating a new devboard, I dropped the XL4015 buck converter idea and went ahead with the XL1509 and the MCP1700 modules for my setup to save more space.
 
+The board is going to have 2 sources of power, a USB-C Receptacle, and a Barrel Jack. The USB-C would mainly be used for programming the board but it can also be used to power all the components besides the stepper motor setup. The barrel jack will be the main source of the power for this board, as it provides the 24V necessary for everything to work.
 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--bd50f3fa79b0090ebb891a1a26503cd881592415/image.png)
