@@ -167,7 +167,7 @@ The board is going to have 2 sources of power, a USB-C Receptacle, and a Barrel 
 
 ## 10/13/2025 5 PM - Finished the main RP2040 schematic sheet  
 
-After reading a bit of the Hardware Design with the RP2040 and following some parts of Kai Pereira's guide I was creating and finishing up on my schematic for the microcontroller. Everything was going good until my PC decided to randomly crash and lose most of my progress. The recovery file thing that KiCad has never works for me so I had to redo half of my work again which slowed me down a lot.
+After reading a bit of the Hardware Design with the RP2040 and following some parts of Kai Pereira's guide on creating a devboard I was creating and finishing up on my schematic for the microcontroller. Everything was going good until my PC decided to randomly crash and have me lose most of my progress. The recovery file thing that KiCad has didn't work so I had to redo half of my work again which slowed me down a bit.
 
 Nevertheless I finished the schematic and now all thats left is to create the schematic for all my peripherals then I'll be able to move onto my PCB designing.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--3836e1fe482cf73609db5992c3b3d471e98cffee/image.png)
