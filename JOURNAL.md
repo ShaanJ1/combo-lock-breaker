@@ -173,3 +173,17 @@ Nevertheless I finished the schematic and now all thats left is to create the sc
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--3836e1fe482cf73609db5992c3b3d471e98cffee/image.png)
   
 
+## 10/13/2025 11 PM - Finished Schematics  
+
+I finally finished my third and last schematic sheet. I fixed some small issues with my other sheets and organizing my sheets with textboxes and some labels. Now I'm going to get them reviewed before I go ahead and start designing the PCB.
+The hardest part of this process so far was finding available parts on JLCPCB that would work for my board. I spent a little over an hour on reading datasheets and researching.
+
+In the end I'm also going to try using some simulation software like Ansys to do some final tests on my board before finalizing and ordering my PCB to make sure everything will work as intended once I get all the parts.
+
+For now I'll be watching some more Fusion and PCB design tutorials. Soon I'll start creating the code for my project.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MywicHVyIjoiYmxvYl9pZCJ9fQ==--92983ec3bdea49ebac62f8fb90c78f06bdc8be13/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0cd1231420af5b44030b20fe4d095d205430d5be/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8f2fd4c02ae90f5bf2567aa35f840d41c7a101f7/image.png)
+  
+
