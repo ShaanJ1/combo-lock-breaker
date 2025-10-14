@@ -161,6 +161,7 @@ Along with creating a new devboard, I dropped the XL4015 buck converter idea and
 
 The board is going to have 2 sources of power, a USB-C Receptacle, and a Barrel Jack. The USB-C would mainly be used for programming the board but it can also be used to power all the components besides the stepper motor setup. The barrel jack will be the main source of the power for this board, as it provides the 24V necessary for everything to work.
 
+The way I'm going to setup my schematic is with multiple sheets, "Power", "RP2040", and "Peripherals". I decided this would be a good way to keep everything organized and have things easily findable.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--bd50f3fa79b0090ebb891a1a26503cd881592415/image.png)
   
