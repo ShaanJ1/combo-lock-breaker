@@ -195,7 +195,7 @@ I got some advice on my schematic now I got some things to improve on. I impleme
 One thing I changed so far is removing the motor and encoder symbols entirely, since they are not apart of the pcb they don't need to be in the schematic.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--99701b0a9cc5155ec6b27293420a5668f9c5b75f/image.png)
 
-Alongside that I also replaced the stepper driver with terminal block connectors, since the driver isn't going to be attached to the board either, but is still connected to the pcb.
+With that I also replaced the stepper driver with terminal block connectors, since the driver isn't going to be directly attached to the board but will still be connected with wires.
 
 
 I also read the datasheet for my logic level shifter and realized I was missing the 10k resistors on the unused pins, so I added that too.
