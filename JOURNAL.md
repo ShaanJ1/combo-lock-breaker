@@ -210,3 +210,10 @@ New:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--174f85cfa539b095f8bccfc89a5391232b323bb4/image.png)
   
 
+## 10/15/2025 - Set up VSCode  
+
+I downloaded the Raspberry Pi Pico vscode extension and initialized my project in C. For now, I'm just going to create some very basic code with library imports and the rest will be comments of what things should be doing and how it would be structured since I don't have my project yet.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--04c84ae6e020627c66c4c960f3cda3a845f5baaa/image.png)
+  
+
