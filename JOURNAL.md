@@ -192,7 +192,7 @@ For now I'll be watching some more Fusion and PCB design tutorials. Soon I'll st
 
 I got some advice on my schematic now I got some things to improve on. I implemented a few so far.
 
-One thing I changed so far is removing the motor and encoder symbols entirely, since they are not apart of the pcb so they don't need to be in the schematic.
+One thing I changed so far is removing the motor and encoder symbols entirely, since they are not apart of the pcb they don't need to be in the schematic.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--99701b0a9cc5155ec6b27293420a5668f9c5b75f/image.png)
 
 Alongside that I also replaced the stepper driver with terminal block connectors, since the driver isn't going to be attached to the board either, but is still connected to the pcb.
