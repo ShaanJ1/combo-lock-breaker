@@ -210,10 +210,23 @@ New:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--174f85cfa539b095f8bccfc89a5391232b323bb4/image.png)
   
 
-## 10/15/2025 - Set up VSCode  
+## 10/15/2025 12 PM - Set up VSCode  
 
 I downloaded the Raspberry Pi Pico vscode extension and initialized my project in C. For now, I'm just going to create some very basic code with library imports and the rest will be comments of what things should be doing and how it would be structured since I don't have my project yet.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--04c84ae6e020627c66c4c960f3cda3a845f5baaa/image.png)
+  
+
+## 10/15/2025 3 PM - Finished Schematic  
+
+Okay after some more reviews and revisions I am 99% sure my schematic is fully finished now. Now I want a little break from KiCad so I'm going to finish up writing the code and then start PCB designing.
+
+Schematic updates:
+- Added mounting holes
+- Added PWR_FLAGS to GND and +24v, VBUS, +5V, and +5V Servo
+- Fixed random pin layouts and properly grouped them together on the connecters
+- Changed the Analog Feedback servo, I2C LCD, and the Matrix Keypad symbols to connectors since they are going to be connected with wires instead of directly being on the board.
+- Fixed the barrel jack's reverse polarity protection. Before: ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--fa731e6f8169a6a1aebaa9327012ca5ed70292fc/image.png)
+After: ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM3NywicHVyIjoiYmxvYl9pZCJ9fQ==--6a626a7c921f722f85c78b5d248138c2941997aa/image.png)
   
 
