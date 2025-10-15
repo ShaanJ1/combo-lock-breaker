@@ -188,3 +188,25 @@ For now I'll be watching some more Fusion and PCB design tutorials. Soon I'll st
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjE2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8f2fd4c02ae90f5bf2567aa35f840d41c7a101f7/image.png)
   
 
+## 10/14/2025 - Schematic revisions #1  
+
+I got some advice on my schematic now I got some things to improve on. I implemented a few so far.
+
+One thing I changed so far is removing the motor and encoder symbols entirely, since they are not apart of the pcb so they don't need to be in the schematic.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--99701b0a9cc5155ec6b27293420a5668f9c5b75f/image.png)
+
+Alongside that I also replaced the stepper driver with terminal block connectors, since the driver isn't going to be attached to the board either, but is still connected to the pcb.
+
+
+I also read the datasheet for my logic level shifter and realized I was missing the 10k resistors on the unused pins, so I added that too.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bd8c4271d888b1fec6f8523f1fc36062b5dbce5a/image.png)
+
+
+My last change of today was changing all the global labels to hierarchial labels for better schematic practices.
+
+Old:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--110716c121605b047a1f45860cba1f3fc490b0b9/image.png)
+New:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--174f85cfa539b095f8bccfc89a5391232b323bb4/image.png)
+  
+
