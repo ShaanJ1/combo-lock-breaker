@@ -243,7 +243,7 @@ Everything else looks fine so far, and I finally finished assigning all the foot
 
 ## 10/16/2025 11 AM - Started the PCB  
 
-Going ahead with the PCB designing now. Haven't figured out an idea of how the board should look in the end, so for now I'm just grouping the parts on the board. I guess this is a good time to look back on the devboard tutorial and see how Kai did his in the tutorial.
+Going ahead with the PCB designing now. Haven't figured out an idea of how the board should look in the end, so for now I'm just grouping the parts on the board. I guess this is a good time to look back on the devboard tutorial and see how Kai did his in the devboard tutorial.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--46c64eb37647617a00cfc3c631049f316e3c1c5f/image.png)
   
 
