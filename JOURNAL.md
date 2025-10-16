@@ -230,3 +230,14 @@ Schematic updates:
 After: ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM3NywicHVyIjoiYmxvYl9pZCJ9fQ==--6a626a7c921f722f85c78b5d248138c2941997aa/image.png)
   
 
+## 10/16/2025 - Schematic revisions #2  
+
+Just kidding, turns out I have more things to fix.
+- I got rid of the second buck converter that was used purely for the servo since it wasn't needed, instead added a flyback diode to the servo to protect against stalling.
+- Changed out the XL1509 chip for its higher switching frequency and similar efficiency
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQyNywicHVyIjoiYmxvYl9pZCJ9fQ==--1cb8611345bb893ccbb85906a97ae3d5adee013c/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--b35527013dac1fd3e3a5c90347032e0cc42af537/image.png)
+
+Everything else looks fine so far, and I finally finished assigning all the footprints after a ton of finding JLCPCB replacements and researching. Now I'll go back to writing the boilerplate code  
+
