@@ -247,3 +247,16 @@ Going ahead with the PCB designing now. Haven't figured out an idea of how the b
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--46c64eb37647617a00cfc3c631049f316e3c1c5f/image.png)
   
 
+## 10/16/2025 3 PM - Design Updates  
+
+When I was setting up the PCB I realized that I had two of the same connectors for each peripheral. I removed both the 1x20 pin headers since they were just duplicates and I didn't plan on needing the extra IO pins anyways.
+
+Also I realized that my capacitors for my RP2040 were powered by 5v instead of 3v3, so I had to change that too
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--d91e983438d58112b1c86aba0b62483ebf06ce05/image.png)
+
+Now I need to make my board smaller and make a few more adjustments before I start routing.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUzMywicHVyIjoiYmxvYl9pZCJ9fQ==--f2f8a35d8e8242f9b623a964a9a1cd69dfdd29c6/image.png)
+
+
+  
+
