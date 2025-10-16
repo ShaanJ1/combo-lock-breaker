@@ -230,7 +230,7 @@ Schematic updates:
 After: ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM3NywicHVyIjoiYmxvYl9pZCJ9fQ==--6a626a7c921f722f85c78b5d248138c2941997aa/image.png)
   
 
-## 10/16/2025 - Schematic revisions #2  
+## 10/16/2025 12 AM - Schematic revisions #2  
 
 Just kidding, turns out I have more things to fix.
 - I got rid of the second buck converter that was used purely for the servo since it wasn't needed, instead added a flyback diode to the servo to protect the circuit from dropping voltage when stalling.
@@ -240,4 +240,10 @@ Just kidding, turns out I have more things to fix.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--b35527013dac1fd3e3a5c90347032e0cc42af537/image.png)
 
 Everything else looks fine so far, and I finally finished assigning all the footprints after a ton of finding JLCPCB replacements and researching. Now I'll go back to writing the boilerplate code  
+
+## 10/16/2025 11 AM - Started the PCB  
+
+Going ahead with the PCB designing now. Haven't figured out an idea of how the board should look in the end, so for now I'm just grouping the parts on the board. I guess this is a good time to look back on the devboard tutorial and see how Kai did his.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--46c64eb37647617a00cfc3c631049f316e3c1c5f/image.png)
+  
 
