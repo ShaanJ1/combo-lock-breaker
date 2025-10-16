@@ -233,7 +233,7 @@ After: ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/
 ## 10/16/2025 - Schematic revisions #2  
 
 Just kidding, turns out I have more things to fix.
-- I got rid of the second buck converter that was used purely for the servo since it wasn't needed, instead added a flyback diode to the servo to protect against stalling.
+- I got rid of the second buck converter that was used purely for the servo since it wasn't needed, instead added a flyback diode to the servo to protect the circuit from dropping voltage when stalling.
 - Changed out the XL1509 chip for its higher switching frequency and similar efficiency
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQyNywicHVyIjoiYmxvYl9pZCJ9fQ==--1cb8611345bb893ccbb85906a97ae3d5adee013c/image.png)
