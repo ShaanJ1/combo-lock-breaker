@@ -260,3 +260,15 @@ Now I need to make my board smaller and make a few more adjustments before I sta
 
   
 
+## 10/17/2025 - Got some routing done on the PCB  
+
+Routed most of the PCB, all thats left now is routing the connectors. I also changed the old footprint of the inductor for my 24v/5v buck converter, since I built the one one wrong and it was missing a pad, heres the new footprint![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--6e4a4679e0c8f86a5b45458ab90d6b9592fd6018/image.png)
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc4NywicHVyIjoiYmxvYl9pZCJ9fQ==--d66aa0ef94056153bbcc261ebb64c1370c49f0c1/image.png)
+
+
+I'm planning to add a reset button and an onboard LED too, after I get my stepper driver connector's wiring looked at since I'm pretty sure it's wrong. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e76f4ecb6f0e96f37fcd0dcd59a89ea4e0272f98/image.png)
+  
+
