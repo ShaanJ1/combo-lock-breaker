@@ -297,9 +297,20 @@ Also added some placeholder functions in the code:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--28b11577bc7ad65e9b7b90e9bf0e3fa5205e4c80/image.png)
   
 
-## 10/18/2025 - Finding viable terminal blocks  
+## 10/18/2025 11 AM - Finding viable terminal blocks  
 
 Okay I think I'm actually done schematic-side now. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0cfcce15c8eb1d98e0785a624e5e9967b016c710/image.png)
 
 Right now the biggest issue that im facing is finding a viable terminal block connector since I just used random footprints last time. The connector should have a footprint (or enough details on the datasheet to accurately make one), and is available at JLCPCB. I gone through like 20 so far and none of them fit my needs so far.  
+
+## 10/18/2025 12 PM - Ready to start PCB (again)  
+
+I finally found some parts on JLCPCB which also had a footprint(a Phoenix terminal block footprint with the same dimensions) on KiCad, now I'm going to redo my entire pcb to make it way smaller than before.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--d1bd87ede2322928ce4942c3971f123780329dd0/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ba172e65c7ab2031fdc01527a14a54cc08c7da21/image.png)
+
+
+My only challenge now is figuring out how to lay out the parts without making my pcb too crammed and ugly looking.  
 
