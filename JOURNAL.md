@@ -297,3 +297,9 @@ Also added some placeholder functions in the code:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--28b11577bc7ad65e9b7b90e9bf0e3fa5205e4c80/image.png)
   
 
+## 10/18/2025 - Finding viable terminal blocks  
+
+Okay I think I'm actually done schematic-side now. ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzAzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0cfcce15c8eb1d98e0785a624e5e9967b016c710/image.png)
+
+Right now the biggest issue that im facing is finding a viable terminal block connector since I just used random footprints last time. The connector should have a footprint (or enough details on the datasheet to accurately make one), and is available at JLCPCB. I gone through like 20 so far and none of them fit my needs so far.  
+
