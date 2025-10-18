@@ -268,7 +268,7 @@ Routed most of the PCB, all thats left now is routing the connectors. I also cha
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc4NywicHVyIjoiYmxvYl9pZCJ9fQ==--d66aa0ef94056153bbcc261ebb64c1370c49f0c1/image.png)
 
 
-I'm planning to add a reset button and an onboard LED too, after I get my stepper driver connector's wiring looked at since I'm pretty sure it's wrong. 
+I also need to get my stepper driver connector's wiring looked at since I'm pretty sure it's wrong. 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e76f4ecb6f0e96f37fcd0dcd59a89ea4e0272f98/image.png)
   
 
