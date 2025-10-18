@@ -286,3 +286,14 @@ Since the datasheet for my driver is pretty bad it took some time to understand 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--6b638f5c8da09dd5bf08273902c65c9f3dfeb037/image.png)
   
 
+## 10/17/2025 10 PM - Changed the transistors  
+
+Since the transistor was bigger than I thought, I moved to a SMD equivalent of it. I got the gist of routing and now I need to make my pcb way smaller too. Since the terminal blocks are taking up a huge chunk of my space I need to split them up across the board instead of having them all in one line.
+
+Old transistor(left) vs new transistor(right)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d852a51300851d396f831829a02a66236fb5b303/image.png)
+
+Also added some placeholder functions in the code:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--28b11577bc7ad65e9b7b90e9bf0e3fa5205e4c80/image.png)
+  
+
