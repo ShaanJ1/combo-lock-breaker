@@ -314,3 +314,17 @@ I finally found some parts on JLCPCB which also had a footprint(a Phoenix termin
 
 My only challenge now is figuring out how to lay out the parts without making my pcb too crammed and ugly looking.  
 
+## 10/19/2025 - Small update  
+
+Busy with work so I can't put as much time as I'd like to on my project, but heres some things I did.
+
+Changes:
+- Switched the flash memory for a smaller version (W25Q128JVS -> W25Q16JVZPIQ TR)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--73ea50b240fa2172f4205e159a64c252595175c8/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzA2NywicHVyIjoiYmxvYl9pZCJ9fQ==--e895780c39f81526782ab1487e4f8891449052ae/image.png)
+- Routed some of the PCB ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--ef088d1d8c073f32ebbbdd78df35721dd7b50eb2/image.png)
+- Changed mounting holes from M3 -> M2
+
+
+After finishing up the board again I will try and make it as small as possible with interfering with anything.  
+
