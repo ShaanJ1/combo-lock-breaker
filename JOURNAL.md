@@ -324,7 +324,7 @@ Changes:
 
 After finishing up the board again I will try and make it as small as possible with interfering with anything.  
 
-## 10/21/2025 - Routed the PCB  
+## 10/21/2025 7 PM - Routed the PCB  
 
 Here is the semi-final version of my PCB. All I need to adjust now are all the fabrication and silkscreen labels, then I need to see if I'm able to make the board smaller.
 
@@ -334,5 +334,17 @@ Oh yeah, the DRC is pretty mad so I gotta take care of that too.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIzNywicHVyIjoiYmxvYl9pZCJ9fQ==--f027cf8e033d14889d8b2cda7d226a1b7d3c91da/image.png)
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIzMywicHVyIjoiYmxvYl9pZCJ9fQ==--2b3c1c5161c56f77df3b0c666234650d9fc0734d/image.png)
+  
+
+## 10/21/2025 10 PM - Finished PCB  
+
+I finally got rid of all the DRC errors 🥳
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI4NywicHVyIjoiYmxvYl9pZCJ9fQ==--3fd7ffeb4e52fd7edf59a70cf7853be0afc17dcd/image.png)
+
+I tried my best to organize and fit all the silkscreen labels, but because there's a very compact area I couldn't keep all of them and removed the ones that wouldn't fit.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--55e58b852add6c4bfcb33a82c9b6287a7d7aa113/image.png)
+
+Now it's time to get some reviews on the PCB
   
 
