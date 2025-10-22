@@ -341,9 +341,12 @@ Oh yeah, the DRC is pretty mad so I gotta take care of that too.
 I finally got rid of all the DRC errors 🥳
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI4NywicHVyIjoiYmxvYl9pZCJ9fQ==--3fd7ffeb4e52fd7edf59a70cf7853be0afc17dcd/image.png)
 
-I tried my best to organize and fit all the silkscreen labels, but because there's a very compact area I couldn't keep all of them and removed the ones that wouldn't fit.
+I tried my best to organize and fit all the silkscreen labels, but because there's a very compact area between the chip and power I couldn't keep all of them and ended up removing the ones that wouldn't fit.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--55e58b852add6c4bfcb33a82c9b6287a7d7aa113/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b45bb810ef6424e45316e585f072f083f15f36ad/image.png)
+
 
 Now it's time to get some reviews on the PCB
   
