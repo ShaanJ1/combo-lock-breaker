@@ -326,7 +326,9 @@ After finishing up the board again I will try and make it as small as possible w
 
 ## 10/21/2025 7 PM - Routed the PCB  
 
-Here is the semi-final version of my PCB. All I need to adjust now are all the fabrication and silkscreen labels, then I need to see if I'm able to make the board smaller.
+Here is the semi-final version of my PCB. All I need to adjust now are all the fabrication and silkscreen labels, then I need to see if I'm able to make the board smaller. 
+
+I also filleted the edges and moved around some components to make sure everything fit in the board.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--58295cb8f6f3f0cba60a492975363dd1cfa88e04/image.png)
 
