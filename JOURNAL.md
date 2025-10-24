@@ -363,12 +363,19 @@ I also changed the thickness of the 24V traces to 0.3mm since I rounded up the c
 
 The top of my PCB is really crammed so I'm going to go ahead and move the MCU and it's components a little further down too.  
 
-## 10/23/2025 - Fixing PCB #2  
+## 10/23/2025 7 PM - Fixing PCB #2  
 
 My old traces were very thin so I had to change all of them to 0.2mm, along with changing the minimum clearances and stuff. All of this could've been avoided if I didn't design my board using the wrong settings 🥀
 
 I also moved the MCU down a bit for extra room.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk0MywicHVyIjoiYmxvYl9pZCJ9fQ==--fb48a23fa5ebcbed808845181a8ac0adcb095428/image.png)
+  
+
+## 10/23/2025 9 PM - aaaaaaaaaaaaaaaaa  
+
+This stupid little trace is not connecting for some reason and I have spent the last 30 minutes trying to make it work. I know it has something to do with DRC but I redrew the lines next to it a million times and it still wont wire in that specific spot 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e83c9f6cc93df7a42c578d0af6541fcd9b648f4d/image.png)
   
 
