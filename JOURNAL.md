@@ -365,7 +365,7 @@ The top of my PCB is really crammed so I'm going to go ahead and move the MCU an
 
 ## 10/23/2025 - Fixing PCB #2  
 
-My old traces were pretty thin so I had to change all of them to 0.2mm, along with changing the minimum clearances and stuff. All of this could've been avoided if I didn't design my board using the wrong settings 🥀
+My old traces were very thin so I had to change all of them to 0.2mm, along with changing the minimum clearances and stuff. All of this could've been avoided if I didn't design my board using the wrong settings 🥀
 
 I also moved the MCU down a bit for extra room.
 
