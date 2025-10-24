@@ -357,6 +357,8 @@ Now it's time to get some reviews on the PCB
 
 Since your not supposed to use vias inside pads unless they're capped (which I have to pay extra) I went ahead and fixed all those occurences.
 
+I also changed the thickness of the 24V traces to 0.3mm since I rounded up the calculation that I got
+
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e8dcb759db0c1c4fb920797c2a83959cadc7e810/image.png)
 
 The top of my PCB is really crammed so I'm going to go ahead and move the MCU and it's components a little further down too.  
