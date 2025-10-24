@@ -393,7 +393,7 @@ Dont see it?
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--04650a4ebd90fbcfbff806296cb7e8e56132165f/image.png)
   
 
-## 10/24/2025 - Waiting for review  
+## 10/24/2025 11 AM - Waiting for review  
 
 I've finished up on fixing all the issues and now all that's left to do is to wait and get some more reviews in
 
@@ -401,4 +401,13 @@ I've finished up on fixing all the issues and now all that's left to do is to wa
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE2MywicHVyIjoiYmxvYl9pZCJ9fQ==--96a65a08d21eb32fd21aa0884484572630a68c46/image.png)
   
+
+## 10/24/2025 3 PM - Finished PCB  
+
+- Routed the GPIO0 - GPIO3 traces underneath the main chip instead of over, so it doesn't interfere with the USBD lines.
+- GPIO26_ADC0 also got routed through the chip for the same reason.
+
+Now that I'm finished the PCB, I'm going to start working on the 3D models.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTIzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a32df3a8692b515cc71bad1fdb77f6cc20c9e736/image.png)  
 
