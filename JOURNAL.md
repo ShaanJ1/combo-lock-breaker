@@ -406,7 +406,7 @@ I've finished up on fixing all the issues and now all that's left to do is to wa
 
 - Routed the GPIO0 - GPIO3 traces underneath the main chip instead of over, so it doesn't interfere with the USBD lines.
 - GPIO26_ADC0 also got routed through the chip for the same reason.
-- Moved the 5v/3v3 converter to the right side of the USBD lines to make it more distinguishable from the other power components
+- Moved the 5v/3v3 converter to the left side of the USBD lines to make it more distinguishable from the other power components
 
 Now that I'm finished the PCB, I'm going to start working on the 3D models.
 
