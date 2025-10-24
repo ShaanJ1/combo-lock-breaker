@@ -374,8 +374,22 @@ I also moved the MCU down a bit for extra room.
 
 ## 10/23/2025 9 PM - aaaaaaaaaaaaaaaaa  
 
-This stupid little trace is not connecting for some reason and I have spent the last 30 minutes trying to make it work. I know it has something to do with DRC but I redrew the lines next to it a million times and it still wont wire in that specific spot 
+This stupid little trace is not connecting for some reason and I have been spending the last 30 minutes trying to figure out why. I redrew the lines next to it a million times and tried to reroute it and nothing.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--e83c9f6cc93df7a42c578d0af6541fcd9b648f4d/image.png)
+
+
+Turns out it was this because of the trace on it's right popping out a little
+
+Dont see it?
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk5NywicHVyIjoiYmxvYl9pZCJ9fQ==--e5cf62fdafc50c92602699b1388198966e1ea730/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--378a4dc0b572e3c26a186751ca9514b4d5ab762e/image.png)
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--50ef668043caa5514817185635a617fa5b0ed6ba/image.png)
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--04650a4ebd90fbcfbff806296cb7e8e56132165f/image.png)
   
 
