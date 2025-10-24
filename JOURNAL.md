@@ -393,3 +393,12 @@ Dont see it?
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--04650a4ebd90fbcfbff806296cb7e8e56132165f/image.png)
   
 
+## 10/24/2025 - Waiting for review  
+
+I've finished up on fixing all the issues and now all that's left to do is to wait and get some more reviews in
+
+- Moved around the traces and component arrangement so that it's a bit cleaner 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE2MywicHVyIjoiYmxvYl9pZCJ9fQ==--96a65a08d21eb32fd21aa0884484572630a68c46/image.png)
+  
+
