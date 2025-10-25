@@ -431,3 +431,17 @@ Now of course this isn't the final design, but it's what I'm going to start with
 
 My main concerns are having proper clearances so components arent too tight/loose, and a way to easily swap out locks with minimal hassle/tools.  
 
+## 10/24/2025 11 PM - Created the base structure  
+
+I decided that I'm going to hide the driver and my PCB underneath the structure to make things look more clean, and embed the LCD and keypad onto the front of the opener.
+
+Instead of using a regular servo horn, I switched it out with a gear + rack system so it's more stable and be more accurate when detecting stops.
+
+Next steps:
+- Create the gear and servo supports
+- Find/Create a 3D model for the keypad
+- Create the 3D model of my PCB
+- Have a place where all the wires can get routed through (the driver's power & control cables will be routed separately to avoid interference)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--1df5c6748bd99e1b9ca7d47053f64e6b4736c5bd/image.png)  
+
