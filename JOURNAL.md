@@ -465,5 +465,7 @@ Finished creating the servo mount/bracket
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--d20187c8df7a96123d6f47f2129aaca7467a3cd6/image.png)
 
 
-I couldn't find a 3D model of my exact keypad online so now I have to make my own. After creating that and setting up all the wiring + screws I think this project will finally be finished.  
+I couldn't find a 3D model of my exact keypad online so now I have to make my own. After creating that and setting up all the wiring + screws I think this project will finally be finished.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--08096ac138a1aa694d931c726c80d9f010068e8d/image.png)
+  
 
