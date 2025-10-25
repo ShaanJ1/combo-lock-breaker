@@ -445,3 +445,16 @@ Next steps:
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--1df5c6748bd99e1b9ca7d47053f64e6b4736c5bd/image.png)  
 
+## 10/25/2025 - Created lock opening mechanism  
+
+- Made the shackle opener
+- ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--fb3131fcacc5ddaa141232835e643ff142589f7c/image.png)
+
+- Attached teeth to the rack and attached it to the servo
+- ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUwNywicHVyIjoiYmxvYl9pZCJ9fQ==--ee26791f59f5a94b9fddd8e3c892c8efedcaa902/image.png)
+- ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ee41bf38ddeedc2fdb81e607df82267c24ae0a5/image.png)
+
+- Created the bracket to keep the rack in place (also extended the rack a bit)
+- ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5ed37ead8c56fd497dbeaa2dada70814707d8d59/image.png)
+I'm probably going to create an indent on the walls of the rack where the rack can slide against the bracket to properly secure it.  
+
