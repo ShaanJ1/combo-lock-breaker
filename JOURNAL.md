@@ -423,7 +423,7 @@ Now I'm going to create the main base. It will hold the lock, motor, driver, and
 
 ## 10/24/2025 7 PM - Rough Idea on 3D model  
 
-I got a good start on the project so far
+I got a good start on the CAD so far
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e67f542f3f945f363c563679853f094beccb5cf4/image.png)
 
