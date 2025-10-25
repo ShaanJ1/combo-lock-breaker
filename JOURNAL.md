@@ -435,7 +435,7 @@ My main concerns are having proper clearances so components arent too tight/loos
 
 I decided that I'm going to hide the driver and my PCB underneath the structure to make things look more clean, and embed the LCD and keypad onto the front of the opener.
 
-Instead of using a regular servo horn, I switched it out with a gear + rack system so it's more stable and be more accurate when detecting stops.
+Instead of using a regular servo horn, I switched it out with a gear + rack system so it's more stable and it'll be more accurate when detecting shackle movement.
 
 Next steps:
 - Create the gear and servo supports
