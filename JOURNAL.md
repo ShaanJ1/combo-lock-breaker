@@ -412,3 +412,12 @@ Now that I'm finished the PCB, I'm going to start working on the 3D models.
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTIzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--a32df3a8692b515cc71bad1fdb77f6cc20c9e736/image.png)  
 
+## 10/24/2025 6 PM - Designed Keypad Holder  
+
+Got all the measurements for the keypad and finished a rough version for the LCD + Keypad holder.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--cd124131c00409fdfba3673454813a94fb81e466/image.png)
+
+
+Now I'm going to create the main base. It will hold the lock, motor, driver, and servo. Then after that I'll attach the LCD and Keypad to it, add my custom PCB, then put everything together.  
+
