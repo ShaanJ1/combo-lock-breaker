@@ -421,3 +421,13 @@ Got all the measurements for the keypad and finished a rough version for the LCD
 
 Now I'm going to create the main base. It will hold the lock, motor, driver, and servo. Then after that I'll attach the LCD and Keypad to it, add my custom PCB, then put everything together.  
 
+## 10/24/2025 7 PM - Rough Idea on 3D model  
+
+I got a good start on the project so far
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e67f542f3f945f363c563679853f094beccb5cf4/image.png)
+
+Now of course this isn't the final design, but it's what I'm going to start with. I'm planning on adding the LCD and keypad to the side of it, and have the driver and PCB on the back or even at the bottom.
+
+My main concerns are having proper clearances so components arent too tight/loose, and a way to easily swap out locks with minimal hassle/tools.  
+
