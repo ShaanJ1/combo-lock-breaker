@@ -445,7 +445,7 @@ Next steps:
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--1df5c6748bd99e1b9ca7d47053f64e6b4736c5bd/image.png)  
 
-## 10/25/2025 - Created lock opening mechanism  
+## 10/25/2025 1 PM - Created lock opening mechanism  
 
 - Made the shackle opener
 - ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--fb3131fcacc5ddaa141232835e643ff142589f7c/image.png)
@@ -457,4 +457,13 @@ Next steps:
 - Created the bracket to keep the rack in place (also extended the rack a bit)
 - ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5ed37ead8c56fd497dbeaa2dada70814707d8d59/image.png)
 I'm probably going to create an indent on the walls of the rack where the rack can slide against the bracket to properly secure it.  
+
+## 10/25/2025 3 PM - Created Servo Mount  
+
+Finished creating the servo mount/bracket
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--d20187c8df7a96123d6f47f2129aaca7467a3cd6/image.png)
+
+
+I couldn't find a 3D model of my exact keypad online so now I have to make my own. After creating that and setting up all the wiring + screws I think this project will finally be finished.  
 
