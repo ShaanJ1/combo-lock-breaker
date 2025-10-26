@@ -477,3 +477,17 @@ Finished creating keypad and added a bracket for it + a bracket for the LCD. Mos
 
 My current idea for changing out the locks is having a way you can pull the stepper motor back to be able to access the lock  
 
+## 10/26/2025 - Created lock removal mechanism  
+
+Made a sliding motor assembly with a locking pin to easily access the combination lock at all times by just removing the pin and pushing the motor back
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc2MywicHVyIjoiYmxvYl9pZCJ9fQ==--775eaa4d801d2546e022a11644a665447f52e7b4/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--8a30af87bececeaea9d807fc29edd221c5668195/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5830988b0110371eb49f10f632d97a35ce6a358b/image.png)
+
+
+Now that I learned more about joints and contact sets in fusion, I'm going to do the same with my servo setup so I can simulate the gears/shackle opening too.
+  
+
