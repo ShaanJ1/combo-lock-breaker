@@ -469,3 +469,11 @@ I couldn't find a 3D model of my exact keypad online so now I have to make my ow
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--08096ac138a1aa694d931c726c80d9f010068e8d/image.png)
   
 
+## 10/25/2025 6 PM - Created Keypad  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b8e6d2520f20661d03a3595088e5f5480896eb17/image.png)
+
+Finished creating keypad and added a bracket for it + a bracket for the LCD. Most of my time was spent trying to separate my parts again because Fusion keeps grouping them together for some reason.
+
+My current idea for changing out the locks is having a way you can pull the stepper motor back to be able to access the lock  
+
