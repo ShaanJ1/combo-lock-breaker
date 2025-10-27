@@ -491,3 +491,16 @@ Made a sliding motor assembly with a locking pin to easily access the combinatio
 Now that I learned more about joints and contact sets in fusion, I'm going to do the same with my servo setup so I can simulate the gears/shackle opening too.
   
 
+## 10/27/2025 - Remade design  
+
+Since I was using bad practices to make my previous design I ended up messing up my entire project's timeline and features which I couldn't fix without doing extra hours of work. I figuired it would be easier to redo the whole project (which now only took a fraction of the time since I know what I'm doing now). 
+
+Here are some additional changes I made after 
+
+Added more support/mounting screws
+Base + Servo Bracket is smaller
+Remade the lock holder so there's less lock slippage and the lock can be removed easier.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--c623722c62a41833de88d664113f74f0e684b58f/image.png)
+  
+
