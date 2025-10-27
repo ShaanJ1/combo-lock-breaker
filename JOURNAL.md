@@ -495,7 +495,7 @@ Now that I learned more about joints and contact sets in fusion, I'm going to do
 
 Since I was using bad practices to make my previous design I ended up messing up my entire project's timeline and features which I couldn't fix without doing extra hours of work. I figuired it would be easier to redo the whole project (which now only took a fraction of the time since I know what I'm doing now). 
 
-Here are some additional changes I made after 
+Here are some additional changes I made:
 
 Added more support/mounting screws
 Base + Servo Bracket is smaller
