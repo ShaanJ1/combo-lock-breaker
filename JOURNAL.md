@@ -522,3 +522,17 @@ I put the PCB and the driver in the most logical spots I could think of and I ad
 
 Now I'm going to be adding more cable organizers on the inside and I should be done the 3D modelling.  
 
+## 10/28/2025 - Finished 3D Design  
+
+I added holes for each port to be accessed from outside the box, and I added some dividers between terminal blocks to better organize each wires in their category. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--60af04d7aa5290aafc8983be786f94c657b094f4/image.png)
+
+To access the inside I made the top cover removable with screws
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjMyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--78d8a168b7fe2518e390da816352cdb6ef75c4f3/image.png)
+
+Lastly I also added some mounting screws to secure the lock holder and the sliding mechanism in place
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjMzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e3489997600d241da147c437763977b3fdbee31/image.png)
+
+Now I'm going to work on my BOM, and I'll also get my schematic checked one last time specifically for the wiring of the driver since I want to make sure I got it correct.  
+
