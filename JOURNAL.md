@@ -511,3 +511,14 @@ Added the base with the LCD and the Keypad. All thats left now is to create crea
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--cdeacb3fd10d366783e318817394df2fc8e3d2ee/image.png)
   
 
+## 10/27/2025 8 PM - Added the PCB and Driver  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--68f217b964998933e070ecceda16ec3f69f226a3/image.png)
+
+I put the PCB and the driver in the most logical spots I could think of and I added mounting screws and supports for both. I also created holes for the connectors to fit the wiring through.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--89531924666233af521d7047a6ec35fe116130cc/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjExMCwicHVyIjoiYmxvYl9pZCJ9fQ==--6dae5a8f74849882e600d8cddc0d47144cabf2d1/image.png)
+
+Now I'm going to be adding more cable organizers on the inside and I should be done the 3D modelling.  
+
