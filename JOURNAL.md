@@ -506,7 +506,7 @@ Remade the lock holder so there's less lock slippage and the lock can be removed
 
 ## 10/27/2025 2 PM - Finished main design  
 
-Added the base with the LCD and the Keypad. All thats left now is to create create the 3D model of my PCB and driver, then create all the wiring for each component
+Added the base with the LCD and the Keypad. All thats left now is to create create the 3D model of my PCB and driver, then find places for them in the design
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--cdeacb3fd10d366783e318817394df2fc8e3d2ee/image.png)
   
