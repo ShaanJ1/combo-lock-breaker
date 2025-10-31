@@ -536,3 +536,14 @@ Lastly I also added some mounting screws to secure the lock holder and the slidi
 
 Now I'm going to work on my BOM, and I'll also get my schematic checked one last time specifically for the wiring of the driver since I want to make sure I got it correct.  
 
+## 10/30/2025 - Updated stepper wiring  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg2MywicHVyIjoiYmxvYl9pZCJ9fQ==--5392416bfb62bf6a578a3ffd237a23c8d48d1d71/image.png)
+
+Fixed a few issues with my stepper driver wiring and updated the PCB. Everything should be all done now
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d0fe0e9b0b4c537a3313f4c8a10811b51303aad3/image.png)
+
+
+I'm going to finish up the BOM on the weekend and I should be able to ship this soon  
+
