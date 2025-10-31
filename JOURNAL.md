@@ -542,8 +542,7 @@ Now I'm going to work on my BOM, and I'll also get my schematic checked one last
 
 Fixed a few issues with my stepper driver wiring and updated the PCB. Everything should be all done now
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d0fe0e9b0b4c537a3313f4c8a10811b51303aad3/image.png)
-
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--dad75a15e9130cf0c0001bc0e5be2c910874f4e7/image.png)
 
 I'm going to finish up the BOM on the weekend and I should be able to ship this soon  
 
