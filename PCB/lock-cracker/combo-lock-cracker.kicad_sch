@@ -1,0 +1,1040 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "dfab858a-838f-407f-a78a-50c5f7c16c3f")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(wire
+		(pts
+			(xy 120.65 69.85) (xy 120.65 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03137ce7-93ae-4433-bcbc-e7256e225e58")
+	)
+	(wire
+		(pts
+			(xy 127 72.39) (xy 123.19 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13cc187e-1183-406c-aff6-3d8f03d70c47")
+	)
+	(wire
+		(pts
+			(xy 160.02 124.46) (xy 163.83 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "210357c2-e1f3-4ede-a8a4-a2d1d2df36da")
+	)
+	(wire
+		(pts
+			(xy 160.02 96.52) (xy 163.83 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21f9b270-b453-4ba8-b68d-ccd579ea3ee0")
+	)
+	(wire
+		(pts
+			(xy 123.19 72.39) (xy 123.19 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5513d156-3386-4660-b673-75ee3c2e508b")
+	)
+	(wire
+		(pts
+			(xy 160.02 86.36) (xy 163.83 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a9d03cd-d929-4f28-89bf-6a73db9167cc")
+	)
+	(wire
+		(pts
+			(xy 160.02 109.22) (xy 163.83 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ba75925-6c11-4ede-a615-0c1dbafb2a39")
+	)
+	(wire
+		(pts
+			(xy 160.02 119.38) (xy 163.83 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94f708d7-a3b2-475a-901a-ce33dade40ff")
+	)
+	(wire
+		(pts
+			(xy 160.02 106.68) (xy 163.83 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a920ad1a-f8e8-4237-bddb-d3b84c390c66")
+	)
+	(wire
+		(pts
+			(xy 160.02 114.3) (xy 163.83 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9c14f26-eedb-4d33-b5a9-3349b507924f")
+	)
+	(wire
+		(pts
+			(xy 160.02 88.9) (xy 163.83 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d644a8b3-6767-478c-8848-f85fdbb31213")
+	)
+	(wire
+		(pts
+			(xy 160.02 91.44) (xy 163.83 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8400203-b3cb-4448-9c36-b4c0ffea4751")
+	)
+	(wire
+		(pts
+			(xy 160.02 121.92) (xy 163.83 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8836aa7-7902-41f6-9a04-975ede0f167b")
+	)
+	(wire
+		(pts
+			(xy 160.02 101.6) (xy 163.83 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc1573be-4812-4d7d-9522-e4358bbdaf6a")
+	)
+	(wire
+		(pts
+			(xy 160.02 111.76) (xy 163.83 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd6802af-d30c-4f79-9b56-5ec1772c3e9c")
+	)
+	(wire
+		(pts
+			(xy 160.02 116.84) (xy 163.83 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "deb28919-9839-4236-a631-9b593e03d793")
+	)
+	(wire
+		(pts
+			(xy 127 69.85) (xy 120.65 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e65ca2bb-4e9e-40bb-a8fe-350f5c1626c9")
+	)
+	(wire
+		(pts
+			(xy 160.02 99.06) (xy 163.83 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e880c167-ba02-4b66-bae4-9e11d3c8ed6d")
+	)
+	(wire
+		(pts
+			(xy 160.02 104.14) (xy 163.83 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e92e57d9-97b3-49d6-b4b2-8c22199e3407")
+	)
+	(wire
+		(pts
+			(xy 160.02 93.98) (xy 163.83 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5b53267-a55b-4bc7-b612-897c4c273239")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 266.7 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "337c0531-4113-4136-91f5-b5f038489968")
+		(property "Reference" "H2"
+			(at 269.24 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 269.24 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 266.7 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 266.7 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 266.7 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "combo-lock-cracker"
+				(path "/dfab858a-838f-407f-a78a-50c5f7c16c3f"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 33.02 160.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3463dded-5142-4feb-929b-5c2ff745858b")
+		(property "Reference" "H4"
+			(at 35.56 158.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 35.56 161.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 33.02 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 33.02 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "combo-lock-cracker"
+				(path "/dfab858a-838f-407f-a78a-50c5f7c16c3f"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 266.7 160.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "37ce81a0-3e06-4164-9aea-5045a0131196")
+		(property "Reference" "H3"
+			(at 269.24 158.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 269.24 161.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 266.7 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 266.7 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 266.7 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "combo-lock-cracker"
+				(path "/dfab858a-838f-407f-a78a-50c5f7c16c3f"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 33.02 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "787fa2d7-2209-47d1-ac63-1e3e52caeb86")
+		(property "Reference" "H1"
+			(at 35.56 24.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 35.56 26.6699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 33.02 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 33.02 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/dfab858a-838f-407f-a78a-50c5f7c16c3f"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 163.83 85.09)
+		(size 38.1 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "48c3bebd-cf99-44ae-aa65-5dccfe61c69c")
+		(property "Sheetname" "Peripherals"
+			(at 163.83 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 163.83 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GPIO11" bidirectional
+			(at 163.83 111.76 180)
+			(uuid "9a77175b-ce4d-48c5-a11e-11b06dddf806")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1" bidirectional
+			(at 163.83 88.9 180)
+			(uuid "cd4d4b26-6d29-4267-81f4-2d414c28168d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO12" bidirectional
+			(at 163.83 114.3 180)
+			(uuid "75f42203-9c6f-4e9c-a9fe-9cd9abb38dbe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO2" bidirectional
+			(at 163.83 91.44 180)
+			(uuid "6d44d4e7-af19-421c-826c-c67c04664d23")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO3" bidirectional
+			(at 163.83 93.98 180)
+			(uuid "e2ae4fa2-0c27-4b1e-9226-ce04b4bf57ac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO9" bidirectional
+			(at 163.83 106.68 180)
+			(uuid "cfbab7e6-72cf-4d91-95be-c3bff465906b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO13" bidirectional
+			(at 163.83 116.84 180)
+			(uuid "2d4576d0-881c-40c1-9b59-1c7ac3911494")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO0" bidirectional
+			(at 163.83 86.36 180)
+			(uuid "c12324e5-7d8b-4c77-a3b3-0da552c0b3e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO6" bidirectional
+			(at 163.83 99.06 180)
+			(uuid "86b59725-f919-4815-b5bf-7af409f02d58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO15" bidirectional
+			(at 163.83 121.92 180)
+			(uuid "c958a2db-4aa0-49bc-a318-92138d81458c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO10" bidirectional
+			(at 163.83 109.22 180)
+			(uuid "0cbe0627-2dc0-4037-b257-51a5ecd6bd68")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO4" bidirectional
+			(at 163.83 96.52 180)
+			(uuid "68f2c15d-3a9b-4d27-9f6a-cecd8d4fd552")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO7" bidirectional
+			(at 163.83 101.6 180)
+			(uuid "c8eaf035-d92a-4aa8-ab00-15781d5fb453")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO14" bidirectional
+			(at 163.83 119.38 180)
+			(uuid "33f50a7b-37fb-44ff-a688-ee7caee4ba78")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO8" bidirectional
+			(at 163.83 104.14 180)
+			(uuid "ed12ac89-20d9-47d6-8cc5-4333b422ed61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO26_ADC0" bidirectional
+			(at 163.83 124.46 180)
+			(uuid "96cf343e-7b6a-4ab8-9e4f-245d0d352188")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "combo-lock-cracker"
+				(path "/dfab858a-838f-407f-a78a-50c5f7c16c3f"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 85.09)
+		(size 60.96 66.04)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9a9c40ff-1b48-4756-8340-f5fd0768bf51")
+		(property "Sheetname" "RP2040"
+			(at 99.06 84.3784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RP2040.kicad_sch"
+			(at 99.06 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 123.19 85.09 90)
+			(uuid "822beb6a-8ae3-4d4f-a2ba-05962c35b803")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO13" bidirectional
+			(at 160.02 116.84 0)
+			(uuid "511794ab-3045-4fd0-898c-ece361532ab5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO4" bidirectional
+			(at 160.02 96.52 0)
+			(uuid "f0a67beb-3a4e-49c4-9b30-f528df106a58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO15" bidirectional
+			(at 160.02 121.92 0)
+			(uuid "1640fe46-aeb7-4c6d-9349-f72c91154bcd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO26_ADC0" bidirectional
+			(at 160.02 124.46 0)
+			(uuid "5ffde5aa-4541-42f8-b43a-8f3a06d57e90")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO14" bidirectional
+			(at 160.02 119.38 0)
+			(uuid "ca7a6a18-a406-44a1-8daf-be90407a1844")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 120.65 85.09 90)
+			(uuid "0666627e-c48b-4a91-a8bc-a41e02a314a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO0" bidirectional
+			(at 160.02 86.36 0)
+			(uuid "a5cecc67-a8a1-44f0-928c-61ce4d8f8a55")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO3" bidirectional
+			(at 160.02 93.98 0)
+			(uuid "aff1d2db-416a-4a09-a23a-348d143b9e58")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO2" bidirectional
+			(at 160.02 91.44 0)
+			(uuid "1b53a107-c47e-4887-9174-428bbac19d9c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO6" bidirectional
+			(at 160.02 99.06 0)
+			(uuid "3f2d7d24-3141-41e3-8c16-126d42fe7625")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO1" bidirectional
+			(at 160.02 88.9 0)
+			(uuid "c7a8478d-7dac-4c24-9dc4-21f37c514127")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO8" bidirectional
+			(at 160.02 104.14 0)
+			(uuid "c5ea00e2-eb92-4e46-bae5-5717cbc1de05")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO11" bidirectional
+			(at 160.02 111.76 0)
+			(uuid "d0418d48-8eaa-4f1f-b697-b7631418efd3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO9" bidirectional
+			(at 160.02 106.68 0)
+			(uuid "10ed176d-c451-4767-817c-718b8e69b5f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO7" bidirectional
+			(at 160.02 101.6 0)
+			(uuid "2ce68098-75ce-4c10-ad48-d3acc9c10e04")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO12" bidirectional
+			(at 160.02 114.3 0)
+			(uuid "90b31a83-ee6f-4172-81fb-efd3f43f9a25")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO10" bidirectional
+			(at 160.02 109.22 0)
+			(uuid "d3f015f2-7d3f-46f4-8427-f287f0a81836")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "combo-lock-cracker"
+				(path "/dfab858a-838f-407f-a78a-50c5f7c16c3f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 64.77)
+		(size 15.24 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bf1b11ef-384b-4638-9367-930a1d59ff27")
+		(property "Sheetname" "Power"
+			(at 127 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_System.kicad_sch"
+			(at 127 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D-" bidirectional
+			(at 127 72.39 180)
+			(uuid "e9d88b81-4284-4244-b251-8b217ba85051")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USB_D+" bidirectional
+			(at 127 69.85 180)
+			(uuid "470fc490-31a4-4ac9-b9f0-d17d215cf887")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "combo-lock-cracker"
+				(path "/dfab858a-838f-407f-a78a-50c5f7c16c3f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
