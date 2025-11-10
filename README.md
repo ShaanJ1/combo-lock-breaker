@@ -11,8 +11,8 @@ This device can cycle through every possible combination on your lock until it f
 
 | **Item Name**                              | **URL**                                                                                                                                                                       | **Price** | **Quantity** | **Per Package** | **Use**                     |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------|------------------|-----------------------------|
-| Power Supply Cable                          | [Amazon](https://a.co/d/4ftIUqJ)                                                                                                                                               | $20.99    | 1             | 1                | Power                      |
-| Closed Loop Nema 17 Motor, Encoder, & Driver | [StepperOnline](https://www.stepperonline.ca/1-axis-closed-loop-stepper-cnc-kit-14ncm-19-83oz-in-nema-17-motor-driver-1-cl42t-s01-v41.html)                                   | $77.21    | 1             | 1                | Dial turning mechanism     |
+| Power Supply Cable                          | [Amazon](https://a.co/d/4ftIUqJ)                                                                                                                                               | $25.98    | 1             | 1                | Power                      |
+| Closed Loop Nema 17 Motor, Encoder, & Driver | [StepperOnline](https://www.stepperonline.ca/1-axis-closed-loop-stepper-cnc-kit-14ncm-19-83oz-in-nema-17-motor-driver-1-cl42t-s01-v41.html)                                   | $114.27    | 1             | 1                | Dial turning mechanism     |
 | Analog Feedback Servo                       | [DigiKey](https://www.digikey.ca/short/wpffb4w5)                                                                                                                              | $32.26    | 1             | 1                | Shackle opening mechanism  |
 | 4x4 Matrix Keypad                           | [AliExpress](https://www.aliexpress.com/item/1005007182495122.html)                                                                                                           | $2.00     | 1             | 1                | User input                 |
 | LCD1602 I2C                                 | [AliExpress](https://www.aliexpress.com/item/1005006151355330.html)                                                                                                           | $4.13     | 1             | 1                | Displays program output    |
@@ -20,12 +20,12 @@ This device can cycle through every possible combination on your lock until it f
 | M2.5 10mm Screws                            | [AliExpress](https://www.aliexpress.com/item/1005007264845313.html)                                                                                                           | $2.96     | 1             | 50               | Mounting screws            |
 | M2.5 5mm Screws                             | [AliExpress](https://www.aliexpress.com/item/1005007264845313.html)                                                                                                           | $2.96     | 1             | 50               | Mounting screws            |
 | M2 5mm Screws                               | [AliExpress](https://www.aliexpress.com/item/1005007264845313.html)                                                                                                           | $2.96     | 1             | 50               | Mounting screws            |
-| PCBA                                        | [JLCPCB](https://jlcpcb.com)                                                                                                                                                  | $71.52    | 1             | 5 PCB, 2 PCBA    | Main controller            |
+| PCBA                                        | [JLCPCB](https://jlcpcb.com)                                                                                                                                                  | $82.02    | 1             | 5 PCB, 2 PCBA    | Main controller            |
 | 22 AWG Wires                                | [DigiKey](https://www.digikey.ca/en/products/detail/cnc-tech/1007-22-1-2000-005-1-TD/17799172)                                                                                | $4.00     | 5             | 1                | Driver signal wires        |
 | 18 AWG Wires                                | [DigiKey](https://www.digikey.ca/en/products/detail/lapp/4180604/12147916)                                                                                                    | $1.34     | 2             | 1                | Driver power wires         |
 
-**Total (CAD):** $225.29  
-**Total (USD):** $160.71
+**Total (CAD):** $277.84  
+**Total (USD):** $198.22
 
 ### Images
 Schematic
