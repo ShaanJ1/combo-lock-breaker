@@ -1,5 +1,5 @@
 # Combo Lock Breaker
-This device can cycle through every possible combination on your lock until it finds the correct code, which is then displayed on an LCD screen.
+This device can cycle through every possible combination on your lock until it finds the correct code, which is then displayed on an LCD screen. In the future this device will also be able to use Samy Kamkar's method to crack locks even faster.
 ### Highlights
 - Very fast and accurate
 - Cracks any combination lock in under ____ minutes
