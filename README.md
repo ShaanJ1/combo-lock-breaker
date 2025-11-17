@@ -11,9 +11,9 @@ This device can cycle through every possible combination on your lock until it f
 
 | **Item Name**                              | **URL**                                                                                                                                                                       | **Price** | **Quantity** | **Per Package** | **Use**                     |
 |--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------|------------------|-----------------------------|
-| Power Supply Cable                          | [Amazon](https://a.co/d/4ftIUqJ)                                                                                                                                               | $25.98    | 1             | 1                | Power                      |
+| Power Supply Cable                          | [AliExpress](https://www.aliexpress.com/item/1005007332397741.html)                                                                                                                                               | $16.96    | 1             | 1                | Power                      |
 | Closed Loop Nema 17 Motor, Encoder, & Driver | [StepperOnline](https://www.stepperonline.ca/1-axis-closed-loop-stepper-cnc-kit-14ncm-19-83oz-in-nema-17-motor-driver-1-cl42t-s01-v41.html)                                   | $114.27   | 1             | 1                | Dial turning mechanism     |
-| Analog Feedback Servo                       | [DigiKey](https://www.digikey.ca/short/wpffb4w5)                                                                                                                              | $32.26    | 1             | 1                | Shackle opening mechanism  |
+| Analog Feedback Servo                       | [AliExpress](https://www.aliexpress.com/item/1005007407524023.html)                                                                                                                              | $14.81    | 1             | 1                | Shackle opening mechanism  |
 | 4x4 Matrix Keypad                           | [AliExpress](https://www.aliexpress.com/item/1005007182495122.html?spm=a2g0o.cart.0.0.56ba38da4Y49U1&mp=1)                                                                    | $2.00     | 1             | 1                | User input                 |
 | LCD1602 I2C                                 | [AliExpress](https://www.aliexpress.com/item/1005006151355330.html?spm=a2g0o.cart.0.0.56ba38da4Y49U1&mp=1)                                                                    | $4.13     | 1             | 1                | Displays program output    |
 | M3 6mm Screws                               | [AliExpress](https://www.aliexpress.com/item/1005007264845313.html)                                                                                                           | $2.96     | 1             | 50               | Mounting screws            |
@@ -28,10 +28,10 @@ This device can cycle through every possible combination on your lock until it f
 | 1x3 PinHeader                               | [DigiKey](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/61300311121/4846825)                                                                                | $0.18     | 1             | 1                | Debug connector            |
 | 1x4 PinHeader                               | [DigiKey](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/61300411121/4846827)                                                                                | $0.50     | 2             | 1                | LCD & servo connectors     |
 | 1x8 PinHeader                               | [DigiKey](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/61300811121/4846839)                                                                                | $0.54     | 1             | 1                | Keypad connector           |
-| Barrel Jack                                 | [DigiKey](https://www.digikey.ca/en/products/detail/gct/DCJ200-10-A-K1-K/9859579)                                                                                             | $1.07     | 1             | 1                | Power connector            |
+| Barrel Jack                                 | [DigiKey](https://www.digikey.ca/en/products/detail/switchcraft-inc/RAPC712BKZ/9997462)                                                                                             | $4.41     | 1             | 1                | Power connector            |
 
-**Total (CAD):** $291.31  
-**Total (USD):** $207.84
+**Total (CAD):** $268.18  
+**Total (USD):** $191.15
 
 
 ### Images
