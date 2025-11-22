@@ -6,7 +6,7 @@
 #include "hardware/gpio.h"
 
 /* 
- * Hardware: I2C, LCD, Matrix Keypad, Closed Loop Stepper Motor System.
+ * Hardware: I2C, LCD, Matrix Keypad, Nema 17, TMC2209
  *
  * Pins:
  * - GPIO0: PUL- Stepper Driver
@@ -28,25 +28,25 @@
 */
 
 // --- Pin Defines ---
-#define STEPPER_PUL_PIN 0
-#define STEPPER_DIR_PIN = 1
-#define STEPPER_ENA_PIN = 2
-#define STEPPER_ALM_PIN = 3
+// #define STEPPER_PUL_PIN 0
+// #define STEPPER_DIR_PIN = 1
+// #define STEPPER_ENA_PIN = 2
+// #define STEPPER_ALM_PIN = 3
 
-#define SERVO_PWM_PIN 5
-#define SERVO_FB_PIN 26 // ADC0
+// #define SERVO_PWM_PIN 5
+// #define SERVO_FB_PIN 26 // ADC0
 
-#define LCD_SCL_PIN 6
-#define LCD_SDA_PIN 7
+// #define LCD_SCL_PIN 6
+// #define LCD_SDA_PIN 7
 
-#define KEYPAD_ROW1_PIN 8
-#define KEYPAD_ROW2_PIN 9
-#define KEYPAD_ROW3_PIN 10
-#define KEYPAD_ROW4_PIN 11
-#define KEYPAD_COLUMN1_PIN 12
-#define KEYPAD_COLUMN2_PIN 13
-#define KEYPAD_COLUMN3_PIN 14
-#define KEYPAD_COLUMN4_PIN 15
+// #define KEYPAD_ROW1_PIN 8
+// #define KEYPAD_ROW2_PIN 9
+// #define KEYPAD_ROW3_PIN 10
+// #define KEYPAD_ROW4_PIN 11
+// #define KEYPAD_COLUMN1_PIN 12
+// #define KEYPAD_COLUMN2_PIN 13
+// #define KEYPAD_COLUMN3_PIN 14
+// #define KEYPAD_COLUMN4_PIN 15
 
 // ---------------------------
 
