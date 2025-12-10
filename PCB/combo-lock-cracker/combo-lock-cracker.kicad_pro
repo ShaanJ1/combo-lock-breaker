@@ -58,24 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "silk_edge_clearance|182000000|122205902|91af58a3-46d3-4b5c-8160-276c9d34b488|e8c83edc-b819-4c3f-a50d-29e603f796e7",
-          ""
-        ],
-        [
-          "silk_edge_clearance|182000000|79525902|91af58a3-46d3-4b5c-8160-276c9d34b488|5111ea6b-73ed-4216-b055-e5dd37142a2a",
-          ""
-        ],
-        [
-          "silk_edge_clearance|182000000|90725902|91af58a3-46d3-4b5c-8160-276c9d34b488|ad1672fe-80d4-4308-abd5-44c10c7811bb",
-          ""
-        ],
-        [
-          "silk_overlap|159869317|127881728|b1fcd32d-1710-444e-85a7-f8421fdd82ec|d766294c-c8ba-48b5-b17e-4b849d5b92a8",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -532,7 +515,7 @@
       "plot": "production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "combo-lock-cracker.step",
+      "step": "../../../combo-lock-breaker/PCB/lock-cracker/combo-lock-cracker.step",
       "svg": "",
       "vrml": ""
     },
@@ -648,7 +631,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "../../../../review/",
+    "plot_directory": "C:/Users/Shaan/Downloads/Github-Repos/combo-lock-breaker/PCB/lock-cracker/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
